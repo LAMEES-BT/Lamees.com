@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+    line-height: 23px;
+}
+.navbr{
+    color: aquamarine;
+}
+.maincontents{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+    font-family: arial;
+}
+.maincontent h3{
+    color: aquamarine;
+    font-family: arial;
+    
+}
+.p{
+    text-align: center;
+     font-family: arial;
+    line-height: 23px;
+}
+.hr hr{
+    width: 300px;
+    text-align: center;
+    align-items: center; 
+}
